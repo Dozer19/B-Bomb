@@ -24,12 +24,12 @@ while 1:
     system("cls||clear")
     print("""{}
   
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-▀            ▀
-▀ B-Bomb     ▀
-▀            ▀
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀          
-
+▀▀▀▀▀▀            ▀▀▀▀▀▀      ▀▀▀▀▀▀▀▀▀▀▀   ▀▀▀       ▀▀▀   ▀▀▀▀▀▀
+▀    ▀            ▀      ▀    ▀         ▀   ▀   ▀   ▀   ▀   ▀      ▀
+▀   ▀       ▀▀▀   ▀   ▀ ▀     ▀         ▀   ▀     ▀     ▀   ▀   ▀
+▀     ▀           ▀      ▀    ▀         ▀   ▀           ▀   ▀      ▀
+▀    ▀            ▀     ▀     ▀         ▀   ▀           ▀   ▀     ▀
+▀▀▀▀▀▀▀           ▀▀▀▀▀▀▀     ▀▀▀▀▀▀▀▀▀▀▀   ▀           ▀   ▀▀▀▀▀▀
     Sms: {}                                      
     """.format(Fore.LIGHTRED_EX, len(servisler_sms), Style.RESET_ALL, Fore.CYAN))
     print(Fore.LIGHTGREEN_EX+"{/} "+Style.RESET_ALL+"Katkıda bulunanlar: "+Fore.LIGHTGREEN_EX+Style.BRIGHT+"edited by B3DO\n"+Style.RESET_ALL)
