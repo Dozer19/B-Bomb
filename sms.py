@@ -6,8 +6,8 @@ from colorama import Fore, Style
 from time import sleep
 
 class SendSms():
-    adet = 0
-    toplam_sms = 5
+    adet = 1
+    toplam_sms = 2
     
    
     def __init__(self, phone, phone2, phone3, phone4, phone5, mail):
